@@ -1,5 +1,5 @@
 # People-Counter
-# A web app that counts the number of people that passes through a walk-way and easily saves the previous enteries
+# A web app used to count the number of people that passes through a walk-way and easily saves the enteries
 
 # HOW TO USE
 
